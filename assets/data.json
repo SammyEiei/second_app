@@ -1,0 +1,22 @@
+{
+  "computerTopics": [
+    {
+      "id": 1,
+      "imageUrl": "https://cdn.pixabay.com/photo/2016/03/26/13/09/workspace-1280538_1280.jpg",
+      "title": "What is Computer?",
+      "description": "A computer is an electronic device that processes data, stores information, and performs calculations or other logical operations according to instructions (programs)."
+    },
+    {
+      "id": 2,
+      "imageUrl": "https://cdn.pixabay.com/photo/2023/07/21/13/25/memory-8141642_1280.jpg",
+      "title": "Computer Components",
+      "description": "A computer consists of hardware (physical parts) and software (programs and data). Key components include CPU, RAM, storage, motherboard, and input/output devices."
+    },
+    {
+      "id": 3,
+      "imageUrl": "https://cdn.pixabay.com/photo/2021/08/04/13/06/software-developer-6521720_1280.jpg",
+      "title": "Types of Computers",
+      "description": "Computers come in various forms: desktops, laptops, tablets, smartphones, servers, and supercomputers, each designed for specific purposes and performance needs."
+    }
+  ]
+}
